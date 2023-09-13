@@ -1,0 +1,11 @@
+<!DOCTYPRE html>
+<html lang="es">
+<head>
+   <meta charset="UTF-8>
+   <title>Comunidad Anime</title>
+</head>
+<body>
+   <h1>habaremos sobre animes</h1>
+   
+</body>
+</html>
